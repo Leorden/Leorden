@@ -1,5 +1,5 @@
-# 💫 About Me:
-🛠️ I’m currently working on<br>Improving my skills in cybersecurity and learning how to work with SIEM systems (Security Information and Event Management).<br><br>🤝 I’m looking to collaborate on<br>Cybersecurity projects, software engineering tasks, or open-source tools for system monitoring.<br><br>🌱 I’m currently learning<br>SIEM platforms, log analysis, incident response, and writing secure code in Python.<br><br>💬 Ask me about<br>How I built a local RAG (Retrieval-Augmented Generation) AI prototype for the manufacturing industry, or how I develop real-time UI dashboards.<br><br>⚡ Fun fact<br>I enjoy breaking down complex systems into simple components – in both code and everyday life!
+# 👋 About Me:  
+🧠 I’m currently working on<br>**RAGflow**, a local AI prototype using Retrieval-Augmented Generation for the manufacturing industry. It connects LLMs with document data to deliver useful insights without relying on the cloud.<br><br>🔧 On the side, I’m building a **DIY 3D scanner** using Arduino to explore embedded systems and hardware-focused programming.<br><br>💻 I enjoy diving into real-time data flows, building UI dashboards, and experimenting with AI-driven tools.<br><br>🤝 Always open to collaborate on<br>AI projects, embedded solutions, or smart automation tools.<br><br>⚡ Fun fact:<br>I love breaking down complex systems into simple building blocks – in both code and hardware!
 
 
 ## 🌐 Socials:
